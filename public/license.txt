@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pineapple Model DSLR
+* source:	https://sketchfab.com/3d-models/pineapple-model-dslr-60fee6466bb6453b96669ec451ac1358
+* author:	sonnycirasuolo (https://sketchfab.com/sonnycirasuolo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pineapple Model DSLR" (https://sketchfab.com/3d-models/pineapple-model-dslr-60fee6466bb6453b96669ec451ac1358) by sonnycirasuolo (https://sketchfab.com/sonnycirasuolo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
